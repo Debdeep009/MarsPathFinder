@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mars Path Finder</string>
+    <string name="FirstActivityName">Stranger from Mars</string>
+    <string name="desc1">Mars Path Finder main image</string>
+    <string name="firstPageButton">START YOUR ADVENTURE</string>
+    <string name="enterYourName">Enter your name to begin</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_value">name</string>
+</resources>
